@@ -28,7 +28,7 @@ Python Backend
 Планирование задач: Airflow, Scheduler.  
 Асинхронное программирование: aiogram, asyncio.  
 Работа с изображениями и PDF: FPDF, Pillow.  
-Графические интерфейсы: tkinter, kivy.
+Графические интерфейсы: tkinter, kivy.  
 Парсинг, скрапинг: parsel, BeautifulSoup.  
 
 **Учебные и пет-проекты**  
