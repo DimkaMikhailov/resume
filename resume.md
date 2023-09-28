@@ -25,7 +25,7 @@
 Python Backend  
 Фреймворки: Flask, Django.  
 Работа с базами данных: SQLAlchemy, PostgreSQL.  
-Планирование задач: Airflow, Sheduler.  
+Планирование задач: Airflow, Scheduler.  
 Асинхронное программирование: aiogram, asyncio.  
 Работа с изображениями и PDF: FPDF, Pillow.  
 Графические интерфейсы: tkinter, kivy.
